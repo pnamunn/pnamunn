@@ -1,7 +1,7 @@
-# I'm Patricia Munn, a Computer Engineering student at San Diego State University
+**I'm Patricia Munn, a Computer Engineering student at San Diego State University**
 
-I'm interested in the biomedical & space industries
-I have experience with Python, C/C++, Verilog, ROS2, Docker
+- I'm interested in the biomedical & space industries
+- I have experience with Python, C/C++, Verilog, ROS2, Docker
 
 
 <!--
